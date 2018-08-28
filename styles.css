@@ -1,0 +1,37 @@
+body {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+h4, input, button {
+    margin: 10px;
+}
+
+.note {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.result-title {
+    margin-top: 10px;
+    margin-left: 15px;
+
+}
+.result-text {
+    padding: 0px 30px;
+    width: 90%;
+}
+
+.result-title, .result-text {
+    width: 90%;
+    display: inline-block;
+}
+
+.text-danger {
+    vertical-align: top;
+    font-size: 30px;
+    float: right;
+    padding: 0px 15px 25px 0px;
+}
+
